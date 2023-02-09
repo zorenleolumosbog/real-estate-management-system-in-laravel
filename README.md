@@ -25,8 +25,6 @@ This Real Estate Management System Project in Laravel is a simple Laravel-based 
 * Change Password
 
 ## User Features Real Estate Management System Project in Laravel
-* Play Video
-* BEST Real-Estate Management System Project in Laravel and MySQL with Source Code
 * Comments
 * Property Rating
 * Settings
